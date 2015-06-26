@@ -1,6 +1,6 @@
 {
   "name": "crypto-stream",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "streaming authenticated encryption",
   "main": "index.js",
   "scripts": {
